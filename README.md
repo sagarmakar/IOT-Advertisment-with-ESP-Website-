@@ -1,2 +1,3 @@
 # IOT-Advertisment-with-ESP-Website-
 This project was developed by me and my Team during the R&amp;D project. Further developed in the later stages of Adv R&amp;D in upcoming semester.
+This has the features added with: localization, ESP-32 Broadcasting, Website with BLE Scan available, and many more to look into........
